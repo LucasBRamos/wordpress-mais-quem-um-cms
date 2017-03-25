@@ -1,0 +1,35 @@
+{
+  "name": "wordpress-mais-que-um-cms",
+  "version": "1.0.0",
+  "description": "Apresentação realizada no dia 31 de Março de 2017",
+  "main": "gulpfile.js",
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasBRamos/wordpress-mais-quem-um-cms.git"
+  },
+  "keywords": [
+    "WordPress",
+    "CMS",
+    "Apresentação",
+    "WordPress"
+  ],
+  "author": "Lucas Bernieri Ramos <lucasramos53@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasBRamos/wordpress-mais-quem-um-cms/issues"
+  },
+  "homepage": "https://github.com/LucasBRamos/wordpress-mais-quem-um-cms#readme",
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "laravel-elixir": "^6.0.0-9",
+    "laravel-elixir-browsersync-official": "^1.0.0",
+    "laravel-elixir-webpack-official": "^1.0.10",
+    "reveal.js": "^3.4.1"
+  }
+}
